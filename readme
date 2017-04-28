@@ -13,3 +13,4 @@ dev add
 dev add line
 dev add line 
 master add 
+test add master
