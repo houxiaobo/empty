@@ -5,11 +5,8 @@ test add line,master modify,b1 modify line
 master add line
 b1 line
 b1 2 line
-<<<<<<< HEAD
 master add line
-=======
 dev add 
->>>>>>> dev
 dev add line
 dev add line 
 hello 
@@ -18,3 +15,5 @@ hello dev
 hello app
 hello ttt
 hello tttt second
+master add 
+test add master
